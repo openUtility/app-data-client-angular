@@ -1,9 +1,10 @@
 {
-  "name": "@open-utility/app-data-client-angular",
+  "name": "@openutility/app-data-client-angular",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^14.2.0",
-    "@angular/core": "^14.2.0"
+    "@angular/core": "^14.2.0",
+    "@openutility/app-data-client": "^1.1.2"
   },
   "dependencies": {
     "tslib": "^2.3.0"
